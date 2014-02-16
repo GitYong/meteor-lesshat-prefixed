@@ -1,0 +1,9 @@
+{
+  "name": "lesshat",
+  "description": "LESS Hat. Get MORE of LESS with smart mixins.",
+  "homepage": "http://lesshat.com/",
+  "author": "Michael Klaus <michael.klaus@gmx.net> (https://github.com/QaDeS)",
+  "version": "0.0.1",
+  "git": "https://github.com/QaDeS/meteor-lesshat",
+  "packages": {}
+}
