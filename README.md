@@ -1,3 +1,5 @@
+#!!!The new package system doesn't make the files from packages easily available any more. This package will not work with Meteor 0.9.0 and higher version
+
 # LESS Hat for Meteor
 ## LESS Hat. Get MORE of LESS with smart mixins on Meteor.
 
